@@ -186,6 +186,7 @@ footer {
     fill: #996e1c;
     width: 30px;
     vertical-align: middle;
+    cursor: pointer;
 }
 #social-media svg:hover {
     fill: #644304;
